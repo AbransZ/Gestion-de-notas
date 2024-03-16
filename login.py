@@ -119,4 +119,4 @@ clear_button.pack(side=tk.LEFT, pady=20)
 
 # Ejecutar el bucle principal de Tkinter
 window.mainloop()
-# version de prueba
+# version aprobada
